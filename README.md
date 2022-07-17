@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shruti</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj</h1>
 
 ## 🙋‍♂️ About Me
 
 
 - 🌱 I’m currently into Web Development
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 📫 How to reach me **subuhishruti75@gmail.com**
+- 📫 How to reach me **Pk497243@gmail.com**
 
 ## 🚀 Languages and Tools:
 
@@ -58,22 +58,22 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Srutip04/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shruti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Srutip04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/pankajfb/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pankaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajfb&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Srutip04/github-readme-stats"><img alt="Shruti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Srutip04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Srutip04/github-readme-stats"><img alt="Shruti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srutip04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/pankajfb/github-readme-stats"><img alt="Shruti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pankajfb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pankajfb/github-readme-stats"><img alt="Pankaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajfb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/>-->
 <br/>
 
-<a href="https://github.com/Srutip04/github-readme-activity-graph"><img alt="Shruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Srutip04&bg_color=0D1117&color=5BCDEC&line=5BCDEC&area_color=88fff3&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/pankajfb/github-readme-activity-graph"><img alt="Pankaj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pankajfb&bg_color=0D1117&color=5BCDEC&line=5BCDEC&area_color=88fff3&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
