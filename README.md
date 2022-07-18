@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## ![](https://komarev.com/ghpvc/?username=pankajfb)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj</h1>
 
@@ -85,7 +85,4 @@ Here are some ideas to get you started:
 
 
 
-<!---
-Srutip04/Srutip04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
