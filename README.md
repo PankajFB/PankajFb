@@ -11,11 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-## ![](https://komarev.com/ghpvc/?username=pankajfb)
+
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+-->
+
+
+## ![](https://komarev.com/ghpvc/?username=pankajfb)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pankaj</h1>
 
